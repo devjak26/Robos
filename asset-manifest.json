@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Robos/static/css/main.8ebb3ecc.css",
+    "main.js": "/Robos/static/js/main.61724200.js",
+    "index.html": "/Robos/index.html",
+    "main.8ebb3ecc.css.map": "/Robos/static/css/main.8ebb3ecc.css.map",
+    "main.61724200.js.map": "/Robos/static/js/main.61724200.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ebb3ecc.css",
+    "static/js/main.61724200.js"
+  ]
+}
